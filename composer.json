@@ -1,0 +1,20 @@
+{
+    "name": "mare/mvc-router-composer_php",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Mare\\App\\": "App/"
+        },
+        "files": [
+            "bootstrap/Config.php"           
+        ]
+    },
+    "authors": [
+        {
+            "name": "marereis"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
